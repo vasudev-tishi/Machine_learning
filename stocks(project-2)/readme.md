@@ -1,1 +1,0 @@
-stocks(project-2)
